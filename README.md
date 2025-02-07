@@ -6,7 +6,7 @@
 
 
 <h2>Link da Aplicação</h2>
-<p>A aplicação está disponível em: https://vanessatanaka.github.io/portfolio/</p>
+<p>A aplicação está disponível em: /</p>
 
 
 <h2>Tecnologias</h2>
