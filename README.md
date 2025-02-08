@@ -9,6 +9,9 @@
 <p>A aplicação está disponível em: https://vanessatanaka.github.io/portfolio/</p>
 
 
+<h2>Imagem do Projeto</h2>
+https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png
+
 <h2>Tecnologias</h2>
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
