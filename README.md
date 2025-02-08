@@ -15,6 +15,11 @@
 </div>
 
 
+<h2>Dificuldades</h2>
+<p>O projeto funcionou perfeitamente na minha máquina. Entretanto, quando coloquei o projeto no Github Pages, a imagem não carregou.</p>
+<p>Eu ainda não consegui resolver esse bug.</p>
+
+
 <h2>Tecnologias</h2>
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
